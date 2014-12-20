@@ -35,6 +35,7 @@
                "mzcom"
                "mzscheme"
                "net"
+               "optimization-coach"
                "parser-tools"
                "pconvert-lib"
                "pict"
