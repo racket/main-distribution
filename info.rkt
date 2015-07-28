@@ -77,7 +77,6 @@
                "unstable"
                "unstable-contract-lib"
                "unstable-latent-contract-lib"
-               "unstable-list-lib"
                "unstable-options-lib"
                "unstable-parameter-group-lib"
                "unstable-flonum-doc"
