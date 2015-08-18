@@ -74,6 +74,7 @@
                "trace"
                "typed-racket"
                "typed-racket-more"
+               "unix-socket"
                "unstable"
                "unstable-contract-lib"
                "unstable-latent-contract-lib"
