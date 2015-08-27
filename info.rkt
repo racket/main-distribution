@@ -80,7 +80,6 @@
                "unstable-latent-contract-lib"
                "unstable-options-lib"
                "unstable-parameter-group-lib"
-               "unstable-flonum-doc"
                "unstable-2d"
                "web-server"
                "wxme"
