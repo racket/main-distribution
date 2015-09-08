@@ -78,7 +78,7 @@
                "unstable"
                "unstable-contract-lib"
                "unstable-options-lib"
-               "unstable-2d"
+               "2d"
                "web-server"
                "wxme"
                "xrepl"
