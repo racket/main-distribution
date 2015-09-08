@@ -76,7 +76,6 @@
                "typed-racket-more"
                "unix-socket"
                "unstable"
-               "unstable-contract-lib"
                "unstable-options-lib"
                "2d"
                "web-server"
