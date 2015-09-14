@@ -77,7 +77,6 @@
                "typed-racket"
                "typed-racket-more"
                "unix-socket"
-               "unstable"
                "web-server"
                "wxme"
                "xrepl"
