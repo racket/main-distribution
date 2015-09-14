@@ -2,7 +2,8 @@
 
 (define collection 'multi)
 
-(define deps '("algol60"
+(define deps '("2d"
+               "algol60"
                "at-exp-lib"
                "compatibility"
                "contract-profile"
@@ -30,6 +31,7 @@
                "lazy"
                "macro-debugger"
                "macro-debugger-text-lib"
+               "make"
                "math"
                "mysterx"
                "mzcom"
@@ -45,7 +47,6 @@
                "planet"
                "plot"
                "preprocessor"
-               "make"
                "profile"
                "r5rs"
                "r6rs"
@@ -77,7 +78,6 @@
                "unix-socket"
                "unstable"
                "unstable-options-lib"
-               "2d"
                "web-server"
                "wxme"
                "xrepl"
