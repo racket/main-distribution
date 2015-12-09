@@ -53,6 +53,7 @@
                "r6rs"
                "racket-doc"
                "distributed-places"
+               "racket-cheat"
                "racket-index"
                "racket-lib"
                "racklog"
