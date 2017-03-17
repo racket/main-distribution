@@ -37,6 +37,7 @@
                "mzcom"
                "mzscheme"
                "net"
+               "net-cookies"
                "optimization-coach"
                "option-contract"
                "parser-tools"
