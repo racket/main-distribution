@@ -59,6 +59,7 @@
                "racket-lib"
                "racklog"
                "rackunit"
+               "rackunit-typed"
                "readline"
                "realm"
                "redex"
