@@ -64,6 +64,7 @@
                "realm"
                "redex"
                "sandbox-lib"
+               "sasl"
                "schemeunit"
                "scribble"
                "serialize-cstruct-lib"
