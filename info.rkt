@@ -70,6 +70,7 @@
                "serialize-cstruct-lib"
                "sgl"
                "shell-completion"
+               "simple-tree-text-markup"
                "slatex"
                "slideshow"
                "snip"
