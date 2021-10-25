@@ -18,6 +18,7 @@
                "drracket"
                "drracket-tool"
                "eopl"
+               "expeditor"
                "errortrace"
                "future-visualizer"
                "future-visualizer-typed"
