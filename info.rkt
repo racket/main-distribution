@@ -57,6 +57,7 @@
                "distributed-places"
                "racket-cheat"
                "racket-index"
+               "racket-index-exe"
                "racket-lib"
                "racklog"
                "rackunit"
