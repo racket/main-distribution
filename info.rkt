@@ -70,6 +70,7 @@
                "schemeunit"
                "scribble"
                "serialize-cstruct-lib"
+               "sequence-tools-lib"
                "sgl"
                "shell-completion"
                "simple-tree-text-markup"
